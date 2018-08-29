@@ -1,0 +1,2 @@
+# AnnotHate
+Hate annotation application
